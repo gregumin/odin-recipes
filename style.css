@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightgoldenrodyellow
+}
+
+.index-box {
+    background-color: pink;
+}
+
+h1 {
+    color:darkred;
+    background-color: gold;
+    text-align: center
+}
+
+h2 {
+    color:darkred;
+    background-color:lightpink;
+    text-align: center
+}
+
+ul li {
+    font-style:italic
+}
