@@ -6,22 +6,6 @@ html {
     background-color:lightgoldenrodyellow
 }
 
-.index-box {
-    background-color: pink;
-    padding: 5px;
-}
-
-.index-list {
-    background-color: pink;
-}
-
-.fancy {
-    color:crimson;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    text-decoration-line: underline;
-}
-
 h1 {
     color:darkred;
     background-color: gold;
@@ -45,4 +29,17 @@ img {
     margin: 0 auto;
     width: 300px;
     height: auto
+}
+
+.index-box {
+    background-color: pink;
+    padding: 5px;
+}
+
+
+.fancy {
+    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-decoration-line: underline;
 }
