@@ -36,7 +36,7 @@ img {
     padding: 5px;
 }
 
-.fancy {
+a.fancy {
     color:crimson;
     font-family: 'Times New Roman', Times, serif;
     font-size: 33px;
