@@ -1,16 +1,33 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
     background-color:lightgoldenrodyellow
 }
 
 .index-box {
     background-color: pink;
+    padding: 5px;
+}
+
+.index-list {
+    background-color: pink;
+}
+
+.fancy {
+    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-decoration-line: underline;
 }
 
 h1 {
     color:darkred;
     background-color: gold;
-    text-align: center
+    text-align: center;
+    display: block;
+    padding: 10px;
 }
 
 h2 {
