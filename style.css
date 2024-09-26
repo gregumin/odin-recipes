@@ -22,3 +22,10 @@ h2 {
 ul li {
     font-style:italic
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto
+}
